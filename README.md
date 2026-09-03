@@ -1,0 +1,2 @@
+# Retail-Data-Warehouse-Analytics-Customer-Product-Performance
+This project involves the development of a structured data warehouse reporting using SQL. The goal was to transform raw transactional data into actionable business intelligence by creating optimized Gold tier reporting views. These views provide insights into customer purchasing behavior, product lifecycle performance, and overall revenue metrics.
