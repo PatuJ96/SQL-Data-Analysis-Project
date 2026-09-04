@@ -4,6 +4,7 @@ This project involves the development of a structured data warehouse reporting u
 1. Customer Performance Report (gold.report_customer)
     
 This report segments customers and calculates their lifetime value (LTV) metrics, enabling targeted marketing and customer retention strategies.
+
 a) Demographic Analysis: Groups customers by age brackets (age_group).
 
 b) Customer Segmentation: Categorizes buyers into actionable segments (e.g., 'VIP', 'New') based on their purchasing history.
