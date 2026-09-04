@@ -1,9 +1,10 @@
-# Retail-Data-Warehouse-Analytics-Customer-Product-Performance
+# SQL Data Analysis Project
+### Retail-Data-Warehouse-Analytics-Customer-Product-Performance
 This project involves the development of a structured data warehouse reporting using SQL. The goal was to transform raw transactional data into actionable business intelligence by creating optimized Gold tier reporting views. These views provide insights into customer purchasing behavior, product lifecycle performance, and overall revenue metrics.
 
-## 📊 Key Reports Generated
+### 📊 Key Reports Generated
 
-### 1. Customer Performance Report (gold.report_customer):
+#### 1. Customer Performance Report (gold.report_customer):
 
 This report segments customers and calculates their lifetime value (LTV) metrics, enabling targeted marketing and customer retention strategies.
 
@@ -15,7 +16,7 @@ c) Behavioral Metrics: Tracks recency (days since last order) and active lifespa
 
 d) Financial KPIs: Aggregates total_orders, total_sales, avg_order_value, and avg_monthly_spend to identify the most valuable customer profiles.
 
-### 2. Product Performance Report (gold.report_products):
+#### 2. Product Performance Report (gold.report_products):
 
 This report evaluates inventory performance, helping the business understand which products drive the most revenue and which are underperforming.
 
